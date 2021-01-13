@@ -1,3 +1,4 @@
+#include "stdafx.h"
 // OptionPositionGridCtrl.cpp
 
 #include "OptionPositionGridGtrl.h"

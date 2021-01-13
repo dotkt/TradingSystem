@@ -1,3 +1,4 @@
+#include "stdafx.h"
 // DataBunchItem.cpp
 
 #include "DataBunchItem.h"

@@ -1,3 +1,4 @@
+#include "stdafx.h"
 // XingAPILoginInfoXMLReader.cpp
 #include "ETradeLoginInfoXMLReader.h"
 #include "DataTypeDefinition.h"

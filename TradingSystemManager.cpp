@@ -1,3 +1,4 @@
+#include "stdafx.h"
 // TradingSystemManager.cpp
 // 
 #include "TradingSystemManager.h"

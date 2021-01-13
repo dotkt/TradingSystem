@@ -1,3 +1,4 @@
+#include "stdafx.h"
 // ModuleList.cpp
 
 #include "ModuleList.h"

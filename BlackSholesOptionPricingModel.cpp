@@ -1,3 +1,4 @@
+#include "stdafx.h"
 // BlackSholesOptionPricing.cpp
 
 #include <cmath>

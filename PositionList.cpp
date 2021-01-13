@@ -1,3 +1,4 @@
+#include "stdafx.h"
 // PositionList.cpp
 
 #include "PositionList.h"

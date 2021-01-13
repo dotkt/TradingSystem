@@ -1,3 +1,4 @@
+#include "stdafx.h"
 // DateInfo.cpp
 
 #include "DateInfo.h"

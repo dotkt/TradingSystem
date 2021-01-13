@@ -1,3 +1,4 @@
+#include "stdafx.h"
 // InstrumentManager.cpp
 
 #include "InstrumentManager.h"

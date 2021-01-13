@@ -1,3 +1,4 @@
+#include "stdafx.h"
 // OptionPriceBoardItem.cpp
 
 #include "OptionPriceBoardItem.h"

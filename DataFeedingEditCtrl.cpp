@@ -1,3 +1,4 @@
+#include "stdafx.h"
 // DataFeedingEditCtrl.cpp
 
 #include "DataFeedingEditCtrl.h"

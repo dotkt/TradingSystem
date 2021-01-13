@@ -1,3 +1,4 @@
+#include "stdafx.h"
 // CDataFeedingGridCtrl.cpp
 
 #include "DataFeedingGridCtrl.h"

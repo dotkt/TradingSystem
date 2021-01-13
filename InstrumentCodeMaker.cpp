@@ -1,3 +1,4 @@
+#include "stdafx.h"
 // InstrumentCodeMaker.cpp
 
 #include "InstrumentCodeMaker.h"

@@ -1,3 +1,4 @@
+#include "stdafx.h"
 // LongPosition.cpp
 
 #include "LongPosition.h"

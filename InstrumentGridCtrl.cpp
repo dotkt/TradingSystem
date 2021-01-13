@@ -1,3 +1,4 @@
+#include "stdafx.h"
 // InstrumentGridCtrl.cpp
 
 #include "InstrumentGridCtrl.h"

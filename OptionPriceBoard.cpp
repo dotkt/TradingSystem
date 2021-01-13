@@ -1,3 +1,4 @@
+#include "stdafx.h"
 // OptionPriceBoard.cpp
 
 #include <tchar.h>

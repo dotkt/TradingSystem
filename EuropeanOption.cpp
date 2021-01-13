@@ -1,3 +1,4 @@
+#include "stdafx.h"
 // EuropeanOption.cpp
 
 #include "EuropeanOption.h"

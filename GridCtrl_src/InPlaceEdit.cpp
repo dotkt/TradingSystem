@@ -1,3 +1,4 @@
+#include "stdafx.h"
 // InPlaceEdit.cpp : implementation file
 //
 // Adapted by Chris Maunder <cmaunder@mail.com>

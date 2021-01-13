@@ -1,3 +1,4 @@
+#include "stdafx.h"
 // LimirOrderBook.cpp
 
 #include "LimitOrderBook.h"

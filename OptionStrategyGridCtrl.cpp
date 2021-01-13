@@ -1,3 +1,4 @@
+#include "stdafx.h"
 // OptionStrategyGridCtrl.cpp
 
 #include "OptionStrategyGridCtrl.h"

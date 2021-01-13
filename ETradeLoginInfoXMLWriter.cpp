@@ -1,3 +1,4 @@
+#include "stdafx.h"
 // ETradeLoginInfoXMLWriter.cpp
 
 #include "ETradeLoginInfoXMLWriter.h"

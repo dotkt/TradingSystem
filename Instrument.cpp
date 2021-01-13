@@ -1,3 +1,4 @@
+#include "stdafx.h"
 // Instrument.cpp
 
 #include "Instrument.h"

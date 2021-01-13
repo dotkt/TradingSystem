@@ -1,3 +1,4 @@
+#include "stdafx.h"
 // DataFeedingListItemInfo.cpp
 
 #include "DataFeedingItemInfo.h"

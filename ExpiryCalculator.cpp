@@ -1,3 +1,4 @@
+#include "stdafx.h"
 // ExpiryCalculator.cpp
 
 #include <tchar.h>

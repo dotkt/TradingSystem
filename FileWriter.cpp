@@ -1,3 +1,4 @@
+#include "stdafx.h"
 // FileWriter.cpp
 
 #include "FileWriter.h"

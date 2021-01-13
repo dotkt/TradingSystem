@@ -1,3 +1,4 @@
+#include "stdafx.h"
 // MathFormula.cpp
 
 #include "MathFormula.h"

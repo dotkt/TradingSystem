@@ -1,3 +1,4 @@
+#include "stdafx.h"
 // OptionParameter.cpp
 
 #include "OptionParameter.h"

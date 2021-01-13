@@ -1,3 +1,4 @@
+#include "stdafx.h"
 // DataBunchItemGridCtrl.cpp
 
 #include "DataBunchItemGridCtrl.h"

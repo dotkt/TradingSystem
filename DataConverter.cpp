@@ -1,3 +1,4 @@
+#include "stdafx.h"
 // DataConverter.cpp
 #include <algorithm> 
 #include <functional> 

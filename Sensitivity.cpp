@@ -1,3 +1,4 @@
+#include "stdafx.h"
 // Sensitivity.cpp
 
 #include "Sensitivity.h"

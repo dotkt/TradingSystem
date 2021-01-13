@@ -1,3 +1,4 @@
+#include "stdafx.h"
 // GridCellBase.cpp : implementation file
 //
 // MFC Grid Control - Main grid cell base class

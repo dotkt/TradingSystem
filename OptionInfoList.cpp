@@ -1,3 +1,4 @@
+#include "stdafx.h"
 // OptionInfoList.cpp
 
 #include "OptionInfoList.h"

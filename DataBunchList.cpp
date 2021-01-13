@@ -1,3 +1,4 @@
+#include "stdafx.h"
 // DataFile.cpp
 
 #include "DataBunchList.h"

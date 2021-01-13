@@ -1,3 +1,4 @@
+#include "stdafx.h"
 // GridDropTarget.cpp : implementation file
 //
 // MFC Grid Control - Drag/Drop target implementation

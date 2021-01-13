@@ -1,3 +1,4 @@
+#include "stdafx.h"
 // OptionManager.cpp
 
 #include "OptionManager.h"

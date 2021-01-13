@@ -1,3 +1,4 @@
+#include "stdafx.h"
 // Ask.cpp
 
 #include "Ask.h"

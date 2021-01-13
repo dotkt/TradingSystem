@@ -1,3 +1,4 @@
+#include "stdafx.h"
 // MathCalculator.cpp
 
 #include <cmath>

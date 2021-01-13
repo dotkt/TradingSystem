@@ -1,3 +1,4 @@
+#include "stdafx.h"
 // Contract.cpp
 
 #include "Contract.h"

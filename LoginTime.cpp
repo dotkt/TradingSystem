@@ -1,3 +1,4 @@
+#include "stdafx.h"
 // LoginTime.cpp
 
 #include "LoginTime.h"

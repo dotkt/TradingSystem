@@ -1,3 +1,4 @@
+#include "stdafx.h"
 // ETradeLoginInfoManager.cpp
 
 #include "ETradeLoginInfoManager.h"

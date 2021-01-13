@@ -1,3 +1,4 @@
+#include "stdafx.h"
 // ServerInfo.cpp
 
 #include "ETradeServerInfo.h"

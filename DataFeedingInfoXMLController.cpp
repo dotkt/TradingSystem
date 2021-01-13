@@ -1,3 +1,4 @@
+#include "stdafx.h"
 // DataFeedingInfoXMLController.cpp
 
 #include "DataFeedingInfoXMLController.h"

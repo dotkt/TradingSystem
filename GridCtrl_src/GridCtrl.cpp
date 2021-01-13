@@ -1,3 +1,4 @@
+#include "stdafx.h"
 // GridCtrl.cpp : implementation file
 //
 // MFC Grid Control v2.26
