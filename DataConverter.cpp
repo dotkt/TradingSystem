@@ -6,7 +6,7 @@
 #include <locale>
 #include "DataConverter.h"
 #include "Constants.h"
-
+#include <functional>
 
 DataConverter::DataConverter(){}
 DataConverter::~DataConverter(){}
