@@ -1,4 +1,5 @@
 // DataBlock.cpp
+#include "stdafx.h"
 
 #include "DataBlock.h"
 #include "Constants.h"
