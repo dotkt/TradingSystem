@@ -7,6 +7,7 @@
 #include "DataConverter.h"
 #include "Constants.h"
 #include <functional>
+using namespace std;
 
 DataConverter::DataConverter(){}
 DataConverter::~DataConverter(){}
@@ -98,7 +99,7 @@ bool DataConverter::CheckIfNumber(const tstring& str){
 
 
 tstring& DataConverter::TrimFromStart(tstring& str){
-	str.erase(str.begin(), find_if(str.begin(), str.end(), not1(ptr_fun<int, int>(std::isspace))));
+	//str.erase(str.begin(), find_if(str.begin(), str.end(), not1(ptr_fun<int, int>(std::isspace))));
 	return str;
 }
 

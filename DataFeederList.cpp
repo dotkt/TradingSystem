@@ -1,4 +1,4 @@
-
+#include "stdafx.h"
 #include "DataFeederList.h"
 
 #include "Markup.h"

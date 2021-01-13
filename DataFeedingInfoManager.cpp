@@ -1,3 +1,4 @@
+#include "stdafx.h"
 // DataFeedingInfoManager.cpp
 
 #include "DataFeedingInfoManager.h"
