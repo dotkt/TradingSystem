@@ -70,9 +70,9 @@ void FileWriter::Write(tchar* trCode, void* data, size_t size){
 
 bool FileWriter::IsEqual(const FileWriter& other){
 	bool ret = false;
-	if(this->writer == other.writer){
-		ret = true;
-	}
+	//if(this->writer == other.writer){
+	//	ret = true;
+	//}
 	return ret;
 }
 

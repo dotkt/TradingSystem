@@ -106,7 +106,7 @@ tstring& DataConverter::TrimFromStart(tstring& str){
 
 
 tstring& DataConverter::TrimFromEnd(tstring& str){
-	str.erase(find_if(str.rbegin(), str.rend(), not1(ptr_fun<int, int>(isspace))).base(), str.end());
+	//str.erase(find_if(str.rbegin(), str.rend(), not1(ptr_fun<int, int>(isspace))).base(), str.end());
 	return str;
 }
 
