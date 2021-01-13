@@ -1,5 +1,5 @@
 // DataBunchesToNotify.h
-
+#pragma once
 #include "Template/Array.hpp"
 
 class DataBunch;
