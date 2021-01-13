@@ -79,9 +79,9 @@ bool FileWriter::IsEqual(const FileWriter& other){
 
 bool FileWriter::IsNotEqual(const FileWriter& other){
 	bool ret = false;
-	if(this->writer!=other.writer){
-		ret = true;
-	}
+	//if(this->writer!=other.writer){
+	//	ret = true;
+	//}
 	return ret;
 }
 
@@ -94,17 +94,17 @@ FileWriter& FileWriter::operator=(const FileWriter& source){
 
 bool FileWriter::operator==(const FileWriter& other){
 	bool ret = false;
-	if(this->writer == other.writer){
-		ret = true;
-	}
+	//if(this->writer == other.writer){
+	//	ret = true;
+	//}
 	return ret;
 }
 
 
 bool FileWriter::operator!=(const FileWriter& other){
 	bool ret = false;
-	if(this->writer!=other.writer){
-		ret = true;
-	}
+	//if(this->writer!=other.writer){
+	//	ret = true;
+	//}
 	return ret;
 }
