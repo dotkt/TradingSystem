@@ -183,6 +183,7 @@
       <EnableCOMDATFolding>true</EnableCOMDATFolding>
       <OptimizeReferences>true</OptimizeReferences>
       <ModuleDefinitionFile>ETradeDataFeedingInfoManager.def</ModuleDefinitionFile>
+      <AdditionalOptions>"G:\chartdir_cpp_win\ChartDirector\lib64\chartdir60.lib" /force %(AdditionalOptions)</AdditionalOptions>
     </Link>
     <Midl>
       <MkTypLibCompatible>false</MkTypLibCompatible>
